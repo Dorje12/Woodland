@@ -1,0 +1,57 @@
+footer{
+	position: relative;
+	width: 100%;
+	background-color:black;
+	min-height:575px;
+}
+.Header{
+	color:gold;
+	text-align: center;
+	padding:45px ;
+	font-size: 50px;
+}
+
+.Ending{
+	display: grid;
+	color: white;
+	grid-template-columns: 33% 33% 33%;
+	height: 350px;	
+	
+}
+
+.Find_Us{
+	text-align: center;
+	font-size: 20px;
+	padding: 15%;
+	
+}
+.Find_Us h, .fa-map-location{
+	font-size: 30px;
+}
+.Disclaimer{
+	margin-top: 18%;
+	font-size: 15px;
+}
+.enquirie{
+	text-align: center;
+	padding: 15%;
+}
+.enquirie h, .fa-phone{
+	font-size:30px;
+}
+
+
+.Follow{
+	text-align: center;
+	font-size: 30px;
+	padding: 15%;
+	
+}
+.Follow i{
+	padding: 2%;
+}
+
+.copyright{
+	font-size: 15px;
+	margin-top: 18%;
+}

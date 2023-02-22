@@ -1,0 +1,229 @@
+*{
+    margin: 0px;
+  }
+  
+  .title{
+    display: grid;
+    width: 100%;
+    height: 650px;
+    margin-top: 100px;
+    grid-template-columns: 63.5% 36.5%;
+  }
+  
+  .pic1{
+    /* background-image: url('Students.jpg'); */
+    background-repeat: no-repeat;
+    margin-left: 40px;
+    margin-top: 56px;
+  }
+  
+  .heading{
+    margin-top: 0px;
+    background-color: #0c4331;
+    margin-right: 40px;
+  }
+  
+  .about{
+    font-family: Bahnschrift SemiCondensed;
+    color: white;
+    font-size: 60px;
+    margin: 48px 30px 20px 50px;
+    /* text-align: center; */
+  }
+  
+  .des{
+    font-family: Bahnschrift SemiCondensed;
+    color: white;
+    font-size: 26.5px;
+    margin: 0px 50px;
+  }
+  
+  .vms{
+    display: grid;
+    height: 550px;
+    grid-template-rows: 33% 33% 33%;
+    margin-top: 250px;
+    width: 100%;
+    /* background-color: #0c4331; */
+  }
+  
+  .vision{
+    width: 50%;
+    display: grid;
+    grid-template-columns: 33% 67%;
+    /* background-color: red; */
+  }
+  
+  .vpic{
+    /* background-image: url('vision.jpg'); */
+    background-size: 181px;
+    background-repeat: no-repeat;
+    margin-left: 40px;
+  }
+  
+  .vtext{
+    background: linear-gradient(105deg, #232381, #13dada);
+    margin-left: 0px;
+  }
+  
+  .vhead{
+    font-family:Bahnschrift SemiCondensed;
+    color: white;
+    font-size: 30px;
+    margin: 15px;
+    
+  }
+  
+  .vdes{
+    font-family:Bahnschrift SemiCondensed;
+    color: white;
+    font-size: 22px;
+    margin: 15px;
+  }
+  
+  .mission{
+    width: 50%;
+    margin-left: 50%;
+    display: grid;
+    grid-template-columns: 67% 33%;
+    /* background-color: red; */
+  }
+  
+  .mpic{
+    /* background-image: url('mission.png'); */
+    background-size: 182px;
+    background-repeat: no-repeat;
+    margin-right: 40px;
+  }
+  
+  .mtext{
+     background: linear-gradient(235deg, #232381, #13dada);
+     margin-left: 0px;
+  }
+  
+  .mhead{
+    font-family:Bahnschrift SemiCondensed;
+    color: white;
+    font-size: 30px;
+    margin: 15px;
+  }
+  
+  .mdes{
+    font-family:Bahnschrift SemiCondensed;
+    color: white;
+    font-size: 22px;
+    margin: 15px;
+  }
+  
+  .strategy{
+    width: 50%;
+    display: grid;
+    grid-template-columns: 33% 67%;
+    /* background-color: red; */
+  }
+  
+  .spic{
+    background-image: url('strategy.png');
+    background-size: 181px;
+    background-repeat: no-repeat;
+    margin-left: 40px;
+  }
+  
+  .stext{
+    background: linear-gradient(105deg, #232381, #13dada);
+    margin-left: 0px;
+  }
+  
+  .shead{
+    font-family:Bahnschrift SemiCondensed;
+    color: white;
+    font-size: 30px;
+    margin: 15px;
+  }
+  
+  .sdes{
+    font-family:Bahnschrift SemiCondensed;
+    color: white;
+    font-size: 22px;
+    margin: 15px;
+  }
+  
+  .teaching{
+    margin-top: 250px;
+    width: 100%;
+    height: 650px;
+    /* background-color: red; */
+    display: grid;
+    grid-template-columns: 35% 65%;
+  }
+  
+  .tmpic{
+    background-image: url('classroom.jpg');
+    background-repeat: no-repeat;
+    background-size:850px;
+    margin-top: 42.5px;
+    margin-right: 40px;
+  }
+  
+  .tmtext{
+    margin-left: 40px;
+    background-color: goldenrod;
+  }
+  
+  .tmhead{
+    font-family:Bahnschrift SemiCondensed;
+    /* color: white; */
+    font-size: 60px;
+    margin: 40px 30px 20px 30px;
+    /* margin-bottom: 20px;
+    text-align: center; */
+  }
+  
+  .tmdes{
+    font-family:Bahnschrift SemiCondensed;
+    /* color: white; */
+    font-size: 26.5px;
+    margin: 0px 30px;
+  }
+  
+  .student{
+    margin-top: 250px;
+    width: 100%;
+    height: 650px;
+    /* background-color: red; */
+    display: grid;
+    grid-template-columns: 65% 35%;
+  }
+  
+  .stupic{
+    background-image: url('student.jpg');
+    background-repeat: no-repeat;
+    background-size:858px;
+    margin-top: 40px;
+    margin-left: 40px;
+  }
+  
+  .stutext{
+    margin-right: 40px;
+    background-color: #ffcec7;
+  }
+  
+  .stuhead{
+    font-family:Bahnschrift SemiCondensed;
+    /* color: white; */
+    font-size: 60px;
+    margin: 40px 30px 20px 30px;
+    /* margin-bottom: 20px;
+    text-align: center; */
+  }
+  
+  .studes{
+    font-family:Bahnschrift SemiCondensed;
+    /* color: white; */
+    font-size: 26.5px;
+    margin: 0px 30px;
+  }
+  
+  .fot{
+    margin-top: 250px;
+  }
